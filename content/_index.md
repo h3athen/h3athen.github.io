@@ -1,6 +1,6 @@
 ---
 title: "Aryan Gurung"
-description: "Main page of heathen.in"
+description: "heathen is a Security Researcher and Programmer"
 ---
 
 {{< lead >}} Here's a sleeping picture of my cat Salem  `[say.luhm]`{{< /lead >}}
