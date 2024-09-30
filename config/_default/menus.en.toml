@@ -1,0 +1,42 @@
+[[main]]
+  name = "Blogs"
+  pageRef = "posts"
+  weight = 1
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 2
+
+[[main]]
+  name = "Resume"
+  url = "wonder.jpg"
+  weight = 3
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/h3athen"
+  weight = 10
+
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://x.com/heathen404"
+  weight = 20
+
+[[main]]
+  identifier = "twitter"
+  pre = "x-twitter"
+  url = "https://x.com/heathen404"
+  weight = 30
+
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20

@@ -1,0 +1,15 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "heathen.in"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "baby-baph-removebg-preview.png"
+secondaryLogo = "baby-baph-removebg-preview.png"
+description = "My awesome website"
+author = { name = "Aryan Gurung", email = "hello@heathen.in", image = "wonder.jpg", imageQuality = 100, bio = "security researcher and programmer", headline = "I'm into Offensive Security, Reverse Engineering and Red Team techniques" }
