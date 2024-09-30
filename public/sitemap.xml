@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/a-plunge-into-lower-level/</loc>
+    <loc>https://example.org/posts/a-plunge-into-lower-level/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
