@@ -1,0 +1,3 @@
+baseURL = 'https://heathen.in/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'

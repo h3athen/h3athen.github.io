@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on heathen.in</title>
+    <link>http://localhost:1313/tags/tutorial/</link>
+    <description>Recent content in Tutorial on heathen.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hello@heathen.in (Aryan Gurung)</managingEditor>
+    <webMaster>hello@heathen.in (Aryan Gurung)</webMaster>
+    <copyright>© 2024 Aryan Gurung</copyright>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Plunge into Low Level</title>
+      <link>http://localhost:1313/posts/a-plunge-into-lower-level/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <author>hello@heathen.in (Aryan Gurung)</author>
+      <guid>http://localhost:1313/posts/a-plunge-into-lower-level/</guid>
+      <description>Exploring the Fundamentals of Low Level Architecture and Assembly Language</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/a-plunge-into-lower-level/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
