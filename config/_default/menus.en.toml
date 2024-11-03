@@ -21,9 +21,14 @@
   weight = 2
 
 [[main]]
+  name = "Resources"
+  pageRef = "resources"
+  weight = 3
+
+[[main]]
   name = "Resume"
   url = "wonder.jpg"
-  weight = 3
+  weight = 4
 
 [[main]]
   identifier = "github"
