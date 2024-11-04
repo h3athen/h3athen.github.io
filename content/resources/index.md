@@ -11,4 +11,4 @@ showReadingTime: false
 Some useful links and posts
 {{< /lead >}}
 
-test
+- My OSCP+ Notes - https://heathen.gitbook.io/oscp+-notes
