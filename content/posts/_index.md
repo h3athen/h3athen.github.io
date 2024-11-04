@@ -1,6 +1,6 @@
 ---
 title: "Blogs"
-description: "Learn how to use Blowfish and its features."
+description: "This is where I write about my life, learning and research"
 ---
 
 {{< lead >}}

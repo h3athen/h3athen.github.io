@@ -20,5 +20,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/a-plunge-into-lower-level/featured.jpg" />
     </item>
     
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hello@heathen.in (Aryan Gurung)</author>
+      <guid>http://localhost:1313/resources/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
