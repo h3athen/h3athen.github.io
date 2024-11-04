@@ -11,4 +11,8 @@ showReadingTime: false
 Some useful links and posts
 {{< /lead >}}
 
-- My OSCP+ Notes - https://heathen.gitbook.io/oscp+-notes
+## My
+- [My OSCP+ Notes](https://heathen.gitbook.io/oscp+-notes)
+
+## Videos
+- [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
