@@ -9,7 +9,17 @@
     <managingEditor>hello@heathen.in (Aryan Gurung)</managingEditor>
     <webMaster>hello@heathen.in (Aryan Gurung)</webMaster>
     <copyright>© 2024 Aryan Gurung</copyright>
-    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dear Diary, My Flare-On 11</title>
+      <link>http://localhost:1313/posts/flare-on-11-diary/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      <author>hello@heathen.in (Aryan Gurung)</author>
+      <guid>http://localhost:1313/posts/flare-on-11-diary/</guid>
+      <description>My 2024 flare-on 11 journey</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flare-on-11-diary/featured.png" />
+    </item>
+    
     <item>
       <title>A Plunge into Low Level</title>
       <link>http://localhost:1313/posts/a-plunge-into-lower-level/</link>
