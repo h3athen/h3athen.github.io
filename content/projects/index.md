@@ -11,6 +11,13 @@ showTableOfContents: true
 Some of my projects that I've worked on
 {{< /lead >}}
 
+### Moox
+A GUI text editor written in Rust
+
+{{< github repo="h3athen/moox" >}}
+
+---
+
 ### Pwnage
 A docker based binary exploitation setup
 
